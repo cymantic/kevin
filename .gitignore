@@ -18,6 +18,7 @@ data
 .gem
 /source
 dev/transactor.properties
+*.swp
 
 # Ignore generated assets. Generate with ./d
 resources/public/images
